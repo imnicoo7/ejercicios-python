@@ -1,4 +1,4 @@
-# Ejercicio Climbing the Leaderboard prueba técnica
+# Ejercicio Climbing the Leaderboard
 # Nicolas Gutierrez
 # ------------------------------------------------------------------------------------------------------------
 def climbing_leaderboard(ranked, player):

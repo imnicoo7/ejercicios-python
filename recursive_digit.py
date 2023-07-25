@@ -17,6 +17,7 @@ def super_digit(n, k):
     repeated_super_digit = recursive_super_digit(str(initial_super_digit * k))
     
     return repeated_super_digit
+
 # ------------------------------------------------------------------------------------------------------------
 # Sample Input 0
 n1, k1 = "148", 3

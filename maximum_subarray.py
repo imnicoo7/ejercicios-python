@@ -1,4 +1,4 @@
-# Ejericio 4 prueba técnica The Maximum Subarray
+# Ejericio The Maximum Subarray
 # Nicolas Gutierrez
 
 # ------------------------------------------------------------------------------------------------------------

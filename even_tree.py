@@ -1,4 +1,4 @@
-# Ejercicio Prueba tecnica Even Tree
+# Ejercicio Even Tree
 # Nicolas Gutierrez
 
 # ------------------------------------------------------------------------------------------------------------
