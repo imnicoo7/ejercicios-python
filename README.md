@@ -1,3 +1,3 @@
 # ejercicios-python
-ejercios de hackerrank resueltos en pytho
+ejercios de hackerrank resueltos en Python
 Nicolas Gutierrez
